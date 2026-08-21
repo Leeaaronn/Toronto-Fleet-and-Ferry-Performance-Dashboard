@@ -15,7 +15,7 @@ The work is anchored on the two Auditor General themes: **vehicle downtime** (20
 
 ### Scope boundary
 
-Claude Code + GSD own the **data engineering layer** — ingest, clean, profile, model (star schema), and the KPI/measures logic, all tested. The Power BI **report canvas was authored manually** in Power BI Desktop on top of the modeled output, following the page-by-page [report spec](deliverables/report_spec.md). The .pbix and PDF export are committed to the repo alongside the modeled data layer.
+ **data engineering layer** — ingest, clean, profile, model (star schema), and the KPI/measures logic, all tested. The Power BI **report canvas was authored manually** in Power BI Desktop on top of the modeled output, following the page-by-page [report spec](deliverables/report_spec.md). The .pbix and PDF export are committed to the repo alongside the modeled data layer.
 
 ## Dashboard
 
