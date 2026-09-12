@@ -1,4 +1,4 @@
-# Fleet Services Analytics — City of Toronto BA Assignment
+# Fleet Services Analytics — City of Toronto
 
 **Project:** Fleet Services Analytics — City of Toronto BA Assignment
 **Run from:** `uv run python -m fleet_analytics.pipeline` (one-command, end-to-end)
